@@ -18,7 +18,7 @@ Triangleは,3角形を触って視覚的に体感するためのツールです�
 
 ### 3角形の中心
 - 3角形メニューから選択すると,多種多様な3角形の中心や3角形に関する円を表示させることができる。
-- 3角形の中心は,米Evansville大学の数学教授による ETC (Encyclopedia of Triangle Centers) に基づいた X(**) の表記を採用している。
+- 3角形の中心は,米Evansville大学の数学教授による [ETC](http://faculty.evansville.edu/ck6/encyclopedia/ETC.html "Encyclopedia of Triangle Centers") (Encyclopedia of Triangle Centers) に基づいた X(**) の表記を採用している。
 - 一部,ETCに掲載されていない(3角形の中心ではない)ものも含む。
 - 3角形の中心やそうでないもののうち,慣用のものは別の表記を与えている。
 
@@ -57,10 +57,13 @@ Triangleは,3角形を触って視覚的に体感するためのツールです�
 - iPhone X 対応
 - 旧来の技術を用いて設計してあったオリジナルバージョンから最新技術も交え,大幅に改良した。だが,修正し切れていない部分でバグが発生する可能性もあり,安定した動作は望めない。
 
+### 更新情報
+一部の3角形の中心の定義を誤って設定していた致命的な問題があった。これまで予期せぬ動きをした中心があったが,修正された。
+
 ### 開く
 - [オンライン版](https://akimikimikimikimikimikimika.github.io/Triangle/Triangle.html "Triangleオンライン版")
 - [オフライン版](https://akimikimikimikimikimikimika.github.io/Triangle/offline.html "Triangleオフライン版")
-- [ソースコード (GitHub)](https://github.com/akimikimikimikimikimikimika/Triangle "ソースコード")
+- [ソースコード (GitHub)](https://github.com/akimikimikimikimikimikimika/Triangle/ "ソースコード")
 
 オンライン版では,全てのコンテンツを組み込み,常に最新の状態で利用できます。
 オフライン版では,オンライン版と同じ体験をオフラインでもできるようにします。URLのdataスキームに全てのソースコードを埋め込んでいるので,一部コンテンツに制限があります。
