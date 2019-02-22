@@ -1,17 +1,17 @@
 {
-    "short_name":"Triangle",
-    "name":"Triangle",
-    "icons":[
-        {
-            "src":"Icon.png",
-            "type":"image/png",
-            "sizes":"192x192"
-        }
-    ],
-    "lang":"ja-JP",
-    "description":"Triangleは,3角形を触って視覚的に体感するためのツールです。",
-    "display":"standalone",
-    "start_url":"?standalone=yes",
-    "background_color":"#FFFFFF",
-    "theme_color":"#FFFFFF"
+	"short_name":"Triangle",
+	"name":"Triangle",
+	"icons":[
+		{
+			"src":"Icon.png",
+			"type":"image/png",
+			"sizes":"192x192"
+		}
+	],
+	"lang":"ja-JP",
+	"description":"Triangleは,3角形を触って視覚的に体感するためのツールです。",
+	"display":"standalone",
+	"start_url":"?standalone=yes",
+	"background_color":"#FFFFFF",
+	"theme_color":"#FFFFFF"
 }
